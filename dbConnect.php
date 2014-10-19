@@ -1,10 +1,10 @@
 <?php
 
 //access variables
-$dbHost = "silo.cs.indiana.edu"; 
-$dbUserAndName = "b561f13_sauchakr"; 
-$dbPass = "saurav123";
-$database = "b561f13_sauchakr";
+$dbHost = //db host address; 
+$dbUserAndName = //username 
+$dbPass = //password
+$database = //database name;
 
 // Create connection to database
 global $con;
